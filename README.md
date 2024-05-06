@@ -1,3 +1,3 @@
 1. npm install
-2. node initdb.js(better sqlite3)
+2. node initdb.js
 3. npm run dev
